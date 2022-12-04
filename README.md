@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jannes Siebler.
+- 👋 Hi, I’m Jannes.
 - 👀 I’m interested in mobile development, especially android and flutter, UX design, the whole google cloud universe, and much more.
 - 🌱 I’m currently self-employed. 
 - 💞️ I’m looking to collaborate on futuristic projects which aim to solve real-life problems.
